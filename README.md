@@ -3,10 +3,10 @@ This repo contains the source code and dataset for our CVPR 2023 workshop paper:
 <a href="https://openaccess.thecvf.com/content/CVPR2023W/VISION/html/Zhu_Towards_Sim-to-Real_Industrial_Parts_Classification_With_Synthetic_Dataset_CVPRW_2023_paper.html"> Towards Sim-to-Real Industrial Parts Classification With Synthetic Dataset </a>  
 CVRP 2023, Workshop on Vision-Based Industrial Inspection  
 
-## Subsequent Work
-This dataset and work focus on **classification** tasks. For the **object detection** dataset, tasks, and generation pipeline, please refer to our **ICRA 2025 paper**:  
-[Domain Randomization for Object Detection in Manufacturing Applications Using Synthetic Data: A Comprehensive Study](https://ieeexplore.ieee.org/abstract/document/11128647),  
-and its accompanying **GitHub** repository: [SynMfg_Code](https://github.com/jacobhenningsson95/SynMfg_Code).  
+### ➡️ Subsequent Work
+This dataset and work focus on **classification** tasks. For the **object detection** dataset, tasks, and generation pipeline, please refer to our  
+📄 **ICRA 2025 paper**: [Domain Randomization for Object Detection in Manufacturing Applications Using Synthetic Data: A Comprehensive Study](https://ieeexplore.ieee.org/abstract/document/11128647),  
+and its accompanying 💻 **GitHub** repository: [SynMfg_Code](https://github.com/jacobhenningsson95/SynMfg_Code).  
 
 ## Introduction  
   
