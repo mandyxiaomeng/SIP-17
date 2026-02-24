@@ -1,6 +1,6 @@
 # Towards Sim-to-Real Industrial Parts Classification with Synthetic Dataset  
 This repo contains the source code and dataset for our **CVPR 2023 workshop** paper:  
-<a href="https://openaccess.thecvf.com/content/CVPR2023W/VISION/html/Zhu_Towards_Sim-to-Real_Industrial_Parts_Classification_With_Synthetic_Dataset_CVPRW_2023_paper.html"> Towards Sim-to-Real Industrial Parts Classification With Synthetic Dataset </a>  
+📄 <a href="https://openaccess.thecvf.com/content/CVPR2023W/VISION/html/Zhu_Towards_Sim-to-Real_Industrial_Parts_Classification_With_Synthetic_Dataset_CVPRW_2023_paper.html"> Towards Sim-to-Real Industrial Parts Classification With Synthetic Dataset </a>  
 CVRP 2023, Workshop on Vision-Based Industrial Inspection  
 
 ### ➡️ Subsequent Work
