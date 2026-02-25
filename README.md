@@ -8,7 +8,7 @@ CVRP 2023, Workshop on Vision-Based Industrial Inspection
 ### ➡️ Subsequent Work
 This dataset and work focus on **classification** tasks. For the **object detection** dataset, tasks, and generation pipeline, please refer to our  
 📄 **ICRA 2025 paper**: [Domain Randomization for Object Detection in Manufacturing Applications Using Synthetic Data: A Comprehensive Study](https://ieeexplore.ieee.org/abstract/document/11128647),  
-and its accompanying 💻 **GitHub** repository: [SynMfg_Code](https://github.com/jacobhenningsson95/SynMfg_Code).  
+and its accompanying 💻 **GitHub** repository: [**SynMfg**](https://github.com/jacobhenningsson95/SynMfg_Code).  
 
 ## Introduction  
   
